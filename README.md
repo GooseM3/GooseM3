@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pandas, OpenAI, and Ruby**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ksmxx](https://github.com/GooseM3)
+- 👨‍💻 All of my projects are available at [https://github.com/GooseM3](https://github.com/GooseM3)
 
 - 📫 How to reach me **Merrick@csu.fullerton.edu**
 
