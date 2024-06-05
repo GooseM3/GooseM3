@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matthew Merrick</h1>
-<h3 align="center">A passionate CS major at CSUF</h3>
 
-- 🔭 I’m currently working on [Into the FarLands](https://github.com/GooseM3)
+- 🌱 I’m currently learning **OpenGL**
 
-- 🌱 I’m currently learning **Pandas, OpenAI, and Ruby**
+- 👨‍💻 Some of my projects are available at [https://github.com/GooseM3](https://github.com/GooseM3)
 
-- 👨‍💻 All of my projects are available at [https://github.com/GooseM3](https://github.com/GooseM3)
-
-- 📫 How to reach me **Merrick@csu.fullerton.edu**
+- 📫 How to reach me **Merrickmatthew@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
